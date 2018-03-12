@@ -148,4 +148,46 @@
 + Nova funcionalidade de filtrar flags pelo tipo; |
 + Novo histórico de validação; |
 
+---
+
+## Em desenvolvimento para a versão 3.2
+@fa[arrow-down]
++++
+
++ Snap Hierárquico
+
++++
+
++ Validação de atributos
+
++++
+
++ Direcionamento de Trechos de Drenagem
+
++++
+
++ Procedimentos de desconstrução de polígonos
+
++++
+
++ Workflow de validação
+
++++
+
++ Melhorias na interface de validação
+
+---
+
+## Roadmap
+
+---
+
+## Acompanhamento do projeto (github)
+
+---
+
+## Como contribuir?
+
+---
+
 ---?image=assets/image/slide_final.jpg
