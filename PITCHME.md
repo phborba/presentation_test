@@ -11,7 +11,11 @@
 ## Novo Modelo de banco de dados: EDGV 3.0
 @fa[arrow-down]
 +++ 
-* Dados Gerais
+* Homologado em dezembro de 2017;
+* Aborda o sistemático e o cadastral; |
+* Quantidade de Classes maior que a 2.1.3; |
+* Bye bye Gothic? |
+
 ---
 @title[Novos processos de validação]
 ## Novo processo de validação: Unir Linhas com Atributos Comuns
