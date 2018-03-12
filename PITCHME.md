@@ -5,9 +5,8 @@
 
 ---?image=assets/image/capa_slide.jpg
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+<font color="white"> DSGTools </font>
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
