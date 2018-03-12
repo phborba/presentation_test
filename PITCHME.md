@@ -10,7 +10,7 @@
 
 ---
 
----?image=assets/image/gifs/merge_lines.jpg
+---?image=assets/image/gifs/merge_lines.gif
 
 ## Template Features
 
