@@ -21,7 +21,7 @@
 + Lista de exclusão de atributos a serem considerados
 + Procedimento de limpeza é executado após o procedimento
 +++ 
-![Image]( <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/merge_lines.gif" width="32")
+![Image]( <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/merge_lines.gif" width="100" height="100">)
 ---
 
 
