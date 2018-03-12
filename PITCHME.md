@@ -78,7 +78,10 @@
 ---
 @title[Melhorias]
 
-## Ferramenta de seleção genérica agora abre um menu para que o usuário escolha a feição a ser selecionada quando há múltiplas opções para a seleção
+## Ferramenta de seleção genérica 
+
++ Agora abre um menu para que o usuário escolha a feição a ser selecionada quando há múltiplas opções para a seleção
+
 @fa[arrow-down]
 
 +++ 
@@ -88,6 +91,7 @@
 
 ## Ferramenta de área mínima
 + Agora permite rotação do gabarito
+
 @fa[arrow-down]
 
 +++ 
@@ -95,7 +99,10 @@
 
 ---
 
-## Ferramenta de aquisição em ângulos retos agora permite aquisição de linhas
+## Ferramenta de aquisição em ângulos retos 
+
++ Agora permite aquisição de linhas
+
 @fa[arrow-down]
 
 +++ 
@@ -103,7 +110,10 @@
 
 ---
 
-## Ferramenta de aquisição de círculos agora permite aquisição de linhas
+## Ferramenta de aquisição de círculos 
+
++ Agora permite aquisição de linhas
+
 @fa[arrow-down]
 
 +++ 
