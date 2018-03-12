@@ -75,4 +75,39 @@
 
 ## Novo processo de validação: Identificar Sobreposições em Camadas
 
+---
+@title[Melhorias]
+
+## Ferramenta de seleção genérica agora abre um menu para que o usuário escolha a feição a ser selecionada quando há múltiplas opções para a seleção
+@fa[arrow-down]
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/layer_selection.gif?raw=true" width="800" height="500">
+
+---
+
+## Ferramenta de área mínima agora permite rotação do gabarito
+@fa[arrow-down]
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/rotate_shape.gif?raw=true" width="800" height="500">
+
+---
+
+## Ferramenta de aquisição em ângulos retos agora permite aquisição de linhas
+@fa[arrow-down]
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/right_angle_with_lines.gif?raw=true" width="800" height="500">
+
+---
+
+## Ferramenta de aquisição de círculos agora permite aquisição de linhas
+@fa[arrow-down]
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/circle_with_lines.gif?raw=true" width="800" height="500">
+
+
+
 ---?image=assets/image/slide_final.jpg
