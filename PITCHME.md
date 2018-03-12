@@ -17,9 +17,9 @@
 ## Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
-+ Conecta linhas baseado no conjunto de atributos
-+ Lista de exclusão de atributos a serem considerados
-+ Procedimento de limpeza é executado após o procedimento
++ Conecta linhas baseado no conjunto de atributos |
++ Lista de exclusão de atributos a serem considerados |
++ Procedimento de limpeza é executado após o procedimento |
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/merge_lines.gif?raw=true" width="800" height="500">
 
@@ -28,12 +28,22 @@
 ## Novo processo de validação: Identificar Pontas Soltas
 @fa[arrow-down]
 +++ 
-+ Indica problemas de conectividade
-+ Raio de busca
-+ Camadas de filtro (retira falsos-positivos)
-+ Tipo de identificação
++ Indica problemas de conectividade |
++ Raio de busca |
++ Camadas de filtro (retira falsos-positivos) |
++ Tipo de identificação |
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/identify_dangles.gif?raw=true" width="800" height="500">
 
+---
+
+## Novo processo de validação: Seccionar Linhas com Linhas
+@fa[arrow-down]
++++ 
++ Quebrar linhas nas intersecções
+
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/identify_dangles.gif?raw=true" width="800" height="500">
 
 ---?image=assets/image/slide_final.jpg
