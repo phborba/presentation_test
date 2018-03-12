@@ -7,6 +7,28 @@
 <font color="white"> 1º Ten Esperidião </font>
 ---
 
+---
+
+# Objetivos
++++
++ Apresentar o estado atual do Projeto SIG Desktop; |
++ Apresentar o DSGTools 3.1; |
++ Apresentar as funcionalidades previstas para a versão 3.2; |
++ Apresentar o Roadmap do projeto; |
++ Apresentar as formas de contribuição com o projeto; |
+
+# Projeto SIG Desktop
++++
++ Gerente: 1º Ten Borba |
++ Adjunto: 1º Ten Esperidião |
++ Colaboradores externos (programadores): 
+ - Cap Luiz Claudio (2º CGEO); |
+ - Cap Diniz (1º CGEO); |
+ - 2º Sgt Wallace (2º CGEO); |
+ - 3º Sgt Jossan (1º CGEO);
+---
+# DSGTools 3.1
+
 @title[Novo modelo de banco]
 ## Novo Modelo de banco de dados: EDGV 3.0
 @fa[arrow-down]
@@ -15,6 +37,7 @@
 * Aborda o sistemático e o cadastral; |
 * Quantidade de Classes maior que a 2.1.3; |
 * Bye bye Gothic? |
+* Desafios: Nova validação e edição para a EDGV 3.0 |
 
 ---
 @title[Novos processos de validação]
@@ -187,7 +210,5 @@
 ---
 
 ## Como contribuir?
-
----
 
 ---?image=assets/image/slide_final.jpg
