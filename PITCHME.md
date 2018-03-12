@@ -12,7 +12,7 @@
 @fa[arrow-down]
 +++ 
 * Dados Gerais
-
+---
 # Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
