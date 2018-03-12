@@ -41,7 +41,7 @@
 @fa[arrow-down]
 +++ 
 + Quebrar linhas nas intersecções
-+ Semelhante ao *Line on line overlayer* do FME |
++ Semelhante ao `Line on line overlayer` do FME |
 
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/line_on_line_overlay.gif?raw=true" width="800" height="500">
