@@ -6,6 +6,7 @@
 #
 theme : beige
 theme-override : assets/css/PITCHME.codemax.css
+background : assets/image/corpo_slide.jpg
 highlight : hybrid
 logo : assets/image/logo.png
 transition : none
