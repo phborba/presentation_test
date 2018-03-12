@@ -10,6 +10,8 @@
 
 ---
 
+---?image=assets/image/gifs/merge_lines.jpg
+
 ## Template Features
 
 - Code Presenting |
