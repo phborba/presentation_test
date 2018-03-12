@@ -20,7 +20,7 @@
 + Lista de exclusão de atributos a serem considerados
 + Procedimento de limpeza é executado após o procedimento
 +++ 
-![Image](assets/image/gifs/merge_lines.gif){ width=50% }
+![Image](assets/image/gifs/merge_lines.gif | width=50)
 
 ---
 
