@@ -86,7 +86,8 @@
 
 ---
 
-## Ferramenta de área mínima agora permite rotação do gabarito
+## Ferramenta de área mínima
++ Agora permite rotação do gabarito
 @fa[arrow-down]
 
 +++ 
