@@ -8,19 +8,19 @@
 ---
 
 @title[Present Static Block]
-# Novo Modelo de banco de dados: EDGV 3.0
+## Novo Modelo de banco de dados: EDGV 3.0
 @fa[arrow-down]
 +++ 
 * Dados Gerais
 ---
-# Novo processo de validação: Unir Linhas com Atributos Comuns
+## Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
 + Conecta linhas baseado no conjunto de atributos
 + Lista de exclusão de atributos a serem considerados
 + Procedimento de limpeza é executado após o procedimento
 +++ 
-![Image](assets/image/gifs/merge_lines.gif)
+![Image](assets/image/gifs/merge_lines.gif){ width=50% }
 
 ---
 
