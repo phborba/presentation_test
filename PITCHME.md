@@ -8,6 +8,8 @@
 
 <br>
 
+---?image=assets/image/capa_slide.jpg
+
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
