@@ -119,6 +119,29 @@
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/circle_with_lines.gif?raw=true" width="800" height="500">
 
+---
 
+## Nova interface para configuração dos Ajustes para a Ferramenta de (Re)Classificação
+@fa[arrow-down]
++++
++ Escolha de atributos não editáveis;
++ Escolha de atributos a serem ignorados; |
++ Escolha da abertura ou não do formulário após digitalização; |
++ Atribuição de cores; |
++ Atribuição de dica de uso (tooltip); |
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/new_field_toolbox_config.gif?raw=true" width="800" height="500">
+
+---
+
+## Melhorias para a Caixa de Ferramentas de Validação
+@fa[arrow-down]
++++
++ A caixa de ferramentas de validação agora mostra o tempo gasto na execução do processo de validação;
++ Nova funcionalidade de limpar flags pelo tipo; |
++ Nova funcionalidade de limpar todas as flags; |
++ Nova funcionalidade de filtrar flags pelo tipo; |
++ Novo histórico de validação; |
 
 ---?image=assets/image/slide_final.jpg
