@@ -7,9 +7,7 @@
 <font color="white"> 1º Ten Esperidião </font>
 ---
 
----
-
-# Objetivos
+## Objetivos
 +++
 + Apresentar o estado atual do Projeto SIG Desktop; |
 + Apresentar o DSGTools 3.1; |
@@ -17,7 +15,8 @@
 + Apresentar o Roadmap do projeto; |
 + Apresentar as formas de contribuição com o projeto; |
 
-# Projeto SIG Desktop
+---
+## Projeto SIG Desktop
 +++
 + Gerente: 1º Ten Borba |
 + Adjunto: 1º Ten Esperidião |
@@ -28,10 +27,10 @@
  - 3º Sgt Jossan (1º CGEO);
  - outros militares;
 ---
-# DSGTools 3.1
+## DSGTools 3.1
 
 @title[Novo modelo de banco]
-## Novo Modelo de banco de dados: EDGV 3.0
+### Novo Modelo de banco de dados: EDGV 3.0
 @fa[arrow-down]
 +++ 
 * Homologado em dezembro de 2017;
@@ -42,7 +41,7 @@
 
 ---
 @title[Novos processos de validação]
-## Novo processo de validação: Unir Linhas com Atributos Comuns
+### Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
 + Conecta linhas baseado no conjunto de atributos 
@@ -53,7 +52,7 @@
 
 ---
 
-## Novo processo de validação: Identificar Pontas Soltas
+### Novo processo de validação: Identificar Pontas Soltas
 @fa[arrow-down]
 +++ 
 + Indica problemas de conectividade 
@@ -65,7 +64,7 @@
 
 ---
 
-## Novo processo de validação: Seccionar Linhas com Linhas
+### Novo processo de validação: Seccionar Linhas com Linhas
 @fa[arrow-down]
 +++ 
 + Quebrar linhas nas intersecções
@@ -76,7 +75,7 @@
 
 ---
 
-## Novo processo de validação: Cortar Elementos Utilizando Áreas como Referência
+### Novo processo de validação: Cortar Elementos Utilizando Áreas como Referência
 @fa[arrow-down]
 +++ 
 + Processo que consiste cortar um conjunto de feições de acordo com as feições da camada de referência
@@ -89,7 +88,7 @@
 
 ---
 
-## Novo processo de validação: Identificar Buracos e Sobreposições em Camadas de Cobertura Terrestre
+### Novo processo de validação: Identificar Buracos e Sobreposições em Camadas de Cobertura Terrestre
 @fa[arrow-down]
 
 +++ 
@@ -97,16 +96,16 @@
 
 ---
 
-## Novo processo de validação:  Identificar Buracos em Camadas
+### Novo processo de validação:  Identificar Buracos em Camadas
 
 ---
 
-## Novo processo de validação: Identificar Sobreposições em Camadas
+### Novo processo de validação: Identificar Sobreposições em Camadas
 
 ---
 @title[Melhorias]
 
-## Ferramenta de seleção genérica 
+### Ferramenta de seleção genérica 
 
 + Agora abre um menu para que o usuário escolha a feição a ser selecionada quando há múltiplas opções para a seleção
 
@@ -117,7 +116,7 @@
 
 ---
 
-## Ferramenta de área mínima
+### Ferramenta de área mínima
 + Agora permite rotação do gabarito
 
 @fa[arrow-down]
@@ -127,7 +126,7 @@
 
 ---
 
-## Ferramenta de aquisição em ângulos retos 
+### Ferramenta de aquisição em ângulos retos 
 
 + Agora permite aquisição de linhas
 
@@ -138,7 +137,7 @@
 
 ---
 
-## Ferramenta de aquisição de círculos 
+### Ferramenta de aquisição de círculos 
 
 + Agora permite aquisição de linhas
 
@@ -149,7 +148,7 @@
 
 ---
 
-## Nova interface para configuração dos Ajustes para a Ferramenta de (Re)Classificação
+### Nova interface para configuração dos Ajustes para a Ferramenta de (Re)Classificação
 @fa[arrow-down]
 +++
 + Escolha de atributos não editáveis;
@@ -163,7 +162,7 @@
 
 ---
 
-## Melhorias para a Caixa de Ferramentas de Validação
+### Melhorias para a Caixa de Ferramentas de Validação
 @fa[arrow-down]
 +++
 + A caixa de ferramentas de validação agora mostra o tempo gasto na execução do processo de validação;
@@ -174,7 +173,7 @@
 
 ---
 
-## Em desenvolvimento para a versão 3.2
+### Em desenvolvimento para a versão 3.2
 @fa[arrow-down]
 +++
 
@@ -202,14 +201,14 @@
 
 ---
 
-## Roadmap
+### Roadmap
 
 ---
 
-## Acompanhamento do projeto (github)
+### Acompanhamento do projeto (github)
 
 ---
 
-## Como contribuir?
+### Como contribuir?
 
 ---?image=assets/image/slide_final.jpg
