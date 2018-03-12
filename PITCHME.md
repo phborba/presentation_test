@@ -11,8 +11,9 @@
 
 @title[Present Static Block]
 # Teste
-
-+++![Image](assets/image/gifs/merge_lines.gif)
+@fa[arrow-down]
++++ 
+![Image](assets/image/gifs/merge_lines.gif)
 
 ---
 
