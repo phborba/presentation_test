@@ -7,10 +7,11 @@
 
 <font color="white"> DSGTools </font>
 
+---?image=assets/image/gifs/merge_lines.gif&size=auto 80%
 
 ---
 
----?image=assets/image/gifs/merge_lines.gif
+
 
 ## Template Features
 
