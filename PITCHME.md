@@ -25,7 +25,15 @@
  - outros militares; |
 ---
 ## DSGTools 3.1
++ Novas funcionalidades;|
++ Correção de bugs (versão atual 3.1.3);|
++ Melhorias de usabilidade;|
 
+---
+
+## DSGTools 3.1: Novas Funcionalidades
+
+---
 @title[Novo modelo de banco]
 ### Novo Modelo de banco de dados: EDGV 3.0
 @fa[arrow-down]
@@ -101,7 +109,9 @@
 
 ---
 @title[Melhorias]
+## DSGTools 3.1: Melhorias
 
+---
 ### Ferramenta de seleção genérica 
 
 + Agora abre um menu para que o usuário escolha a feição a ser selecionada quando há múltiplas opções para a seleção
@@ -170,7 +180,11 @@
 
 ---
 
-### Em desenvolvimento para a versão 3.2
+### DSGTools 3.2: Em desenvolvimento
+
++ Lançamento previsto para Agosto de 2018; |
++ Principal foco: Validação topológica; |
++ Quais funcionalidades? |
 @fa[arrow-down]
 +++
 
