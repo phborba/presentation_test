@@ -41,9 +41,38 @@
 @fa[arrow-down]
 +++ 
 + Quebrar linhas nas intersecções
-
++ Semelhante ao _Line on line overlayer_ do FME |
 
 +++ 
-<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/identify_dangles.gif?raw=true" width="800" height="500">
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/line_on_line_overlay.gif?raw=true" width="800" height="500">
+
+---
+
+## Novo processo de validação: Cortar Elementos Utilizando Áreas como Referência
+@fa[arrow-down]
++++ 
++ Processo que consiste cortar um conjunto de feições de acordo com as feições da camada de referência
++ Duas opções: |
+ - Manter os elementos fora da referência
+ - Descartar os elementos fora da referência
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/overlay_areas_with_elements.gif?raw=true" width="800" height="500">
+
+---
+
+## Novo processo de validação: Identificar Buracos e Sobreposições em Camadas de Cobertura Terrestre
+@fa[arrow-down]
+
++++ 
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/overlay_areas_with_elements.gif?raw=true" width="800" height="500">
+
+---
+
+## Novo processo de validação:  Identificar Buracos em Camadas
+
+---
+
+## Novo processo de validação: Identificar Sobreposições em Camadas
 
 ---?image=assets/image/slide_final.jpg
