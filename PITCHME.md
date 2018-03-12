@@ -5,10 +5,9 @@
 <font color="white"> 1º Ten Borba </font>
 <br>
 <font color="white"> 1º Ten Esperidião </font>
----
 
+---
 ## Objetivos
-+++
 + Apresentar o estado atual do Projeto SIG Desktop; |
 + Apresentar o DSGTools 3.1; |
 + Apresentar as funcionalidades previstas para a versão 3.2; |
@@ -17,7 +16,6 @@
 
 ---
 ## Projeto SIG Desktop
-+++
 + Gerente: 1º Ten Borba |
 + Adjunto: 1º Ten Esperidião |
 + Colaboradores: 
