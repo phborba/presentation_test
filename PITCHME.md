@@ -17,7 +17,7 @@
 ## Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
-+ Conecta linhas baseado no conjunto de atributos |
++ Conecta linhas baseado no conjunto de atributos 
 + Lista de exclusão de atributos a serem considerados |
 + Procedimento de limpeza é executado após o procedimento |
 +++ 
@@ -28,7 +28,7 @@
 ## Novo processo de validação: Identificar Pontas Soltas
 @fa[arrow-down]
 +++ 
-+ Indica problemas de conectividade |
++ Indica problemas de conectividade 
 + Raio de busca |
 + Camadas de filtro (retira falsos-positivos) |
 + Tipo de identificação |
