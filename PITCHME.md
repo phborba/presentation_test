@@ -2,11 +2,6 @@
 
 ### A GitPitch Presentation Template
 
----
-
-## Tips!
-
-<br>
 
 ---?image=assets/image/capa_slide.jpg
 
