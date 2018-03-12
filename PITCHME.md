@@ -8,7 +8,7 @@
 <font color="white"> DSGTools </font>
 
 ---
-![Image](assets/image/gif/merge_lines.gif)
+![Image](assets/image/gifs/merge_lines.gif)
 
 ---
 
