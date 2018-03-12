@@ -16,14 +16,13 @@
 
 ---
 ## Projeto SIG Desktop
-+ Gerente: 1º Ten Borba |
-+ Adjunto: 1º Ten Esperidião |
-+ Colaboradores: 
++ 1º Ten Borba (Gerente) e 1º Ten Esperidião (Adjunto) |
++ Colaboradores: |
  - Cap Luiz Claudio (2º CGEO); |
  - Cap Diniz (1º CGEO); |
  - 2º Sgt Wallace (2º CGEO); |
- - 3º Sgt Jossan (1º CGEO);
- - outros militares;
+ - 3º Sgt Jossan (1º CGEO); |
+ - outros militares; |
 ---
 ## DSGTools 3.1
 
