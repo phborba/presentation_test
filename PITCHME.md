@@ -1,6 +1,6 @@
 ---?image=assets/image/capa_slide.jpg
 
-# <font color="white"> Estado do desenvolvimento do DSGTools </font>
+<font color="white"> Estado do desenvolvimento do DSGTools </font>
 
 ---
 
