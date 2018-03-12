@@ -21,7 +21,7 @@
 + Lista de exclusão de atributos a serem considerados
 + Procedimento de limpeza é executado após o procedimento
 +++ 
-![Image](assets/image/gifs/merge_lines.gif?v=4&s=200)
+![Image](assets/image/gifs/merge_lines.gif?v=4&s=50)
 
 ---
 
