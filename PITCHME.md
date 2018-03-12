@@ -1,11 +1,6 @@
-# Aqua
-
-### A GitPitch Presentation Template
-
-
 ---?image=assets/image/capa_slide.jpg
 
-<font color="white"> DSGTools </font>
+# <font color="white"> DSGTools </font>
 
 ---
 
