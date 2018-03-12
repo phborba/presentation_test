@@ -5,9 +5,9 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 theme : beige
-theme-override : assets/css/PITCHME.css
+background : assets/image/corpo_slide.jpg
 highlight : hybrid
 logo : assets/image/logo.png
 transition : none
 published : true
-footnote : "GitPitch [ Aqua ] Presentation Template"
+footnote : "GitPitch [ Aqua CodeMax ] Presentation Template"
