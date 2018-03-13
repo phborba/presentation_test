@@ -6,7 +6,6 @@
 #
 theme : white
 background : assets/image/corpo_slide.jpg
-layout: top
 highlight : hybrid
 transition : none
 published : true
