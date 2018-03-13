@@ -22,14 +22,6 @@
 + Como contribuir?
 
 ---
-## Objetivos
-+ Apresentar o estado atual do Projeto SIG Desktop; |
-+ Apresentar o DSGTools 3.1; |
-+ Apresentar as funcionalidades previstas para a versão 3.2; |
-+ Apresentar o Roadmap do projeto; |
-+ Apresentar as formas de contribuição com o projeto; |
-
----
 ## Projeto SIG Desktop
 + 1º Ten Borba (Gerente) e 1º Ten Esperidião (Adjunto) |
 + Colaboradores: |
@@ -56,7 +48,7 @@
 * Homologado em dezembro de 2017;
 * Aborda o sistemático e o grandes escalas; |
 * Quantidade de Classes maior que a 2.1.3; |
-* Bye bye Gothic? |
+* _Bye bye_ Gothic? |
 * Desafios: Nova validação e edição para a EDGV 3.0. |
 
 ---
@@ -293,9 +285,5 @@
 + Documentando procedimentos do DSGTools (Tutoriais);|
 + Ministrando capacitações;|
 + Programando!|
-
----
-
-# Existimos para melhor servir a produção
 
 ---?image=assets/image/slide_final.jpg
