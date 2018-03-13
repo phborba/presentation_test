@@ -269,7 +269,7 @@
 + Público: possibilidade de verificar a execução das demandas;
 
 +++
-<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/tickets.png?raw=true" width="1000" height="800">
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/tickets.png?raw=true">
 +++
 
 + Possibilidade de reportar bugs e solicitar melhorias
