@@ -10,6 +10,16 @@
 
 ## Sumário
 
++ Objetivos;
++ Equipe do Projeto;
++ Lançamento do DSGTools 3.1:
+ - Novas funcionalidades;
+ - Melhorias;
+ - Correção de bugs;
++ Versão em trabalho: DSGTools 3.2;
++ Lançamentos futuros (_Roadmap_);
++ Acompanhamento do Projeto;
++ Como contribuir?
 
 ---
 ## Objetivos
@@ -232,9 +242,44 @@
 
 ### Roadmap
 
++++
+
++ DSGTools 3.3
+ - Migração para o QGIS 3.0;
+ - Reorganização do código;
+ - Melhorias na ferramenta de conversão;
+
++++
+
++ DSGTools 3.4
+ - Ferramentas de Edição;
+ - Melhorias de uso;
+
++++
+
++ DSGTools 3.5
+ - Banco de topônimos;
+ - Relatórios para a produção;
+ - Melhorias de uso;
+
 ---
 
 ### Acompanhamento do projeto (github)
+
++ Público: possibilidade de verificar a execução das demandas;
+
++++
+
+[Gerência de Demandas](assets/image/tickets.png)
+
++++
+
++ Possibilidade de reportar bugs e solicitar melhorias
+
++++
+
+[Gerência de Issues](assets/image/issues.png)
+
 
 ---
 
