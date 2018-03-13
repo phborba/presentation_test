@@ -44,19 +44,19 @@
 @fa[arrow-down]
 +++ 
 * Homologado em dezembro de 2017;
-* Aborda o sistemático e o cadastral; |
+* Aborda o sistemático e o grandes escalas; |
 * Quantidade de Classes maior que a 2.1.3; |
 * Bye bye Gothic? |
-* Desafios: Nova validação e edição para a EDGV 3.0 |
+* Desafios: Nova validação e edição para a EDGV 3.0. |
 
 ---
 @title[Novos processos de validação]
 ### Novo processo de validação: Unir Linhas com Atributos Comuns
 @fa[arrow-down]
 +++ 
-+ Conecta linhas baseado no conjunto de atributos 
-+ Lista de exclusão de atributos a serem considerados |
-+ Procedimento de limpeza é executado após o procedimento |
++ Conecta linhas baseado no conjunto de atributos; 
++ Lista de exclusão de atributos a serem considerados; |
++ Procedimento de limpeza é executado após o procedimento. |
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/merge_lines.gif?raw=true" width="800" height="500">
 
@@ -65,10 +65,10 @@
 ### Novo processo de validação: Identificar Pontas Soltas
 @fa[arrow-down]
 +++ 
-+ Indica problemas de conectividade 
-+ Raio de busca |
-+ Camadas de filtro (retira falsos-positivos) |
-+ Tipo de identificação |
++ Indica problemas de conectividade; 
++ Raio de busca; |
++ Camadas de filtro (retira falsos-positivos); |
++ Tipo de identificação. |
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/identify_dangles.gif?raw=true" width="800" height="500">
 
@@ -77,8 +77,8 @@
 ### Novo processo de validação: Seccionar Linhas com Linhas
 @fa[arrow-down]
 +++ 
-+ Quebrar linhas nas intersecções
-+ Semelhante ao Line on line overlayer do FME |
++ Quebrar linhas nas intersecções;
++ Semelhante ao Line on line overlayer do FME. |
 
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/line_on_line_overlay.gif?raw=true" width="800" height="500">
@@ -90,8 +90,8 @@
 +++ 
 + Processo que consiste cortar um conjunto de feições de acordo com as feições da camada de referência
 + Duas opções: |
- - Manter os elementos fora da referência
- - Descartar os elementos fora da referência
+ - Manter os elementos fora da referência, e
+ - Descartar os elementos fora da referência.
 
 +++ 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/overlay_areas_with_elements.gif?raw=true" width="800" height="500">
@@ -102,7 +102,7 @@
 @fa[arrow-down]
 
 +++ 
-<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/overlay_areas_with_elements.gif?raw=true" width="800" height="500">
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/gifs/earth_coverage_gaps_and_overlaps.gif?raw=true" width="800" height="500">
 
 ---
 
@@ -214,6 +214,19 @@
 +++
 
 + Melhorias na interface de validação
+
++++
+
++ EDGV Pro 2.1.3
++ EDGV Pro 3.0
+
++++
+
++ Ferramenta de Aquisição em Mão Livre
+
++++
+
++ Configurador de parâmetros para o operador
 
 ---
 
