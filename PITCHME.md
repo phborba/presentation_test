@@ -204,82 +204,85 @@
 +++
 
 + Snap Hierárquico
-
+@fa[arrow-down]
 +++
 
 + Validação de atributos
-
+@fa[arrow-down]
 +++
 
 + Direcionamento de Trechos de Drenagem
-
+@fa[arrow-down]
 +++
 
 + Procedimentos de desconstrução de polígonos
-
+@fa[arrow-down]
 +++
 
 + Workflow de validação
-
+@fa[arrow-down]
 +++
 
 + Melhorias na interface de validação
-
+@fa[arrow-down]
 +++
 
 + EDGV Pro 2.1.3
 + EDGV Pro 3.0
-
+@fa[arrow-down]
 +++
 
 + Ferramenta de Aquisição em Mão Livre
-
+@fa[arrow-down]
 +++
 
 + Configurador de parâmetros para o operador
-
+@fa[arrow-down]
 ---
 
 ### Roadmap
-
+@fa[arrow-down]
 +++
 
 + DSGTools 3.3
  - Migração para o QGIS 3.0;
  - Reorganização do código;
  - Melhorias na ferramenta de conversão;
-
+@fa[arrow-down]
 +++
 
 + DSGTools 3.4
  - Ferramentas de Edição;
  - Melhorias de uso;
-
+@fa[arrow-down]
 +++
 
 + DSGTools 3.5
  - Banco de topônimos;
  - Relatórios para a produção;
  - Melhorias de uso;
-
+@fa[arrow-down]
 ---
 
 ### Acompanhamento do projeto (github)
-
+@fa[arrow-down]
++++
 + Público: possibilidade de verificar a execução das demandas;
-
+@fa[arrow-down]
 +++
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/tickets.png?raw=true">
 +++
 
 + Possibilidade de reportar bugs e solicitar melhorias
-
+@fa[arrow-down]
 +++
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/issues.png?raw=true">
 
 ---
 
 ### Como contribuir?
+
++++
 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/would-you-please-help-me.jpg?raw=true">
 
