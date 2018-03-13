@@ -269,9 +269,7 @@
 + Público: possibilidade de verificar a execução das demandas;
 
 +++
-
-![Gerência de Demandas](assets/image/tickets.png)
-
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/tickets.png?raw=true" width="1000" height="800">
 +++
 
 + Possibilidade de reportar bugs e solicitar melhorias
