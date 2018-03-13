@@ -6,6 +6,11 @@
 <br>
 <font color="white"> 1º Ten Esperidião </font>
 
+---?image=assets/image/sumario_slide.jpg
+
+## Sumário
+
+
 ---
 ## Objetivos
 + Apresentar o estado atual do Projeto SIG Desktop; |
