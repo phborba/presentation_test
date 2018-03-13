@@ -270,7 +270,7 @@
 
 +++
 
-[Gerência de Demandas](assets/image/tickets.png)
+![Gerência de Demandas](assets/image/tickets.png)
 
 +++
 
