@@ -275,12 +275,12 @@
 + Possibilidade de reportar bugs e solicitar melhorias
 
 +++
-
-[Gerência de Issues](assets/image/issues.png)
-
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/issues.png?raw=true">
 
 ---
 
 ### Como contribuir?
+
+<img src="https://github.com/phborba/presentation_test/blob/master/assets/image/would-you-please-help-me.jpg?raw=true">
 
 ---?image=assets/image/slide_final.jpg
