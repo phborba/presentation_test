@@ -286,4 +286,16 @@
 
 <img src="https://github.com/phborba/presentation_test/blob/master/assets/image/would-you-please-help-me.jpg?raw=true">
 
++++
+
++ Reportando bugs;|
++ Sugerindo melhorias;|
++ Documentando procedimentos do DSGTools (Tutoriais);|
++ Ministrando capacitações;|
++ Programando!|
+
+---
+
+# Existimos para melhor servir a produção
+
 ---?image=assets/image/slide_final.jpg
