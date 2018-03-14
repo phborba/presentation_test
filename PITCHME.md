@@ -247,13 +247,7 @@
  - Ferramentas de Edição;
  - Melhorias de uso;
 @fa[arrow-down]
-+++
 
-+ DSGTools 3.5
- - Banco de topônimos;
- - Relatórios para a produção;
- - Melhorias de uso;
-@fa[arrow-down]
 ---
 
 ### Acompanhamento do projeto (github)
